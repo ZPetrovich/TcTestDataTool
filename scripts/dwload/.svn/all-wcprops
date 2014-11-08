@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/internal/!svn/ver/82037/web_module/trunk/scripts/dwload
+END
+memberParticipationMetricsReportDataLoadingTool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/internal/!svn/ver/81448/web_module/trunk/scripts/dwload/memberParticipationMetricsReportDataLoadingTool.sh
+END
+loadtcs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/internal/!svn/ver/74985/web_module/trunk/scripts/dwload/loadtcs.sh
+END
+loadCopilotData.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/internal/!svn/ver/81939/web_module/trunk/scripts/dwload/loadCopilotData.xml
+END
+loadJira.xml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/internal/!svn/ver/81923/web_module/trunk/scripts/dwload/loadJira.xml
+END
+loadweeklystat.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/internal/!svn/ver/78644/web_module/trunk/scripts/dwload/loadweeklystat.sh
+END
+memberParticipationMetricsReportDataLoadingTool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/internal/!svn/ver/81445/web_module/trunk/scripts/dwload/memberParticipationMetricsReportDataLoadingTool.xml
+END
+loadtcsscript.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/internal/!svn/ver/74985/web_module/trunk/scripts/dwload/loadtcsscript.sh
+END
+loadAchievement.xml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/internal/!svn/ver/82037/web_module/trunk/scripts/dwload/loadAchievement.xml
+END
+loadtcs.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/internal/!svn/ver/74985/web_module/trunk/scripts/dwload/loadtcs.xml
+END
+loadweeklystat.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/internal/!svn/ver/78644/web_module/trunk/scripts/dwload/loadweeklystat.xml
+END
+loadCopilotData.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/internal/!svn/ver/81939/web_module/trunk/scripts/dwload/loadCopilotData.sh
+END
+loadJira.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/internal/!svn/ver/81923/web_module/trunk/scripts/dwload/loadJira.sh
+END

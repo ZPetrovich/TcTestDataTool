@@ -1,0 +1,12 @@
+2012-11-11 00:34:02,685 [DBUtilityLauncher] - Launching com.topcoder.utilities.dwload.ClientUserStatsLoadUtility...
+java.lang.NullPointerException
+	at com.topcoder.shared.util.sql.DBUtility.parseXML(DBUtility.java:215)
+	at com.topcoder.shared.util.sql.DBUtility.process(DBUtility.java:104)
+	at com.topcoder.shared.util.sql.DBUtilityLauncher.main(DBUtilityLauncher.java:59)
+2012-11-11 00:34:02,702 [DBUtility] - *******************************************
+2012-11-11 00:34:02,703 [DBUtility] - FAILURE: 
+java.lang.NullPointerException
+	at com.topcoder.shared.util.sql.DBUtility.parseXML(DBUtility.java:215)
+	at com.topcoder.shared.util.sql.DBUtility.process(DBUtility.java:104)
+	at com.topcoder.shared.util.sql.DBUtilityLauncher.main(DBUtilityLauncher.java:59)
+2012-11-11 00:34:02,703 [DBUtility] - *******************************************

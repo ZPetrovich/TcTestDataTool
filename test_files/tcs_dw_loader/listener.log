@@ -1,0 +1,689 @@
+2012-12-26 14:53:10,198 [main] com.topcoder.utilities.dwload.TCLoadTCS - set submissionDir: file:/tcssubmissions/
+2012-12-26 14:53:10,199 [main] com.topcoder.shared.util.dwload.TCLoadUtility - Creating source database connection...
+2012-12-26 14:53:10,547 [main] com.topcoder.shared.util.dwload.TCLoadUtility - Success!
+2012-12-26 14:53:10,547 [main] com.topcoder.shared.util.dwload.TCLoadUtility - Creating target database connection...
+2012-12-26 14:53:10,572 [main] com.topcoder.shared.util.dwload.TCLoadUtility - Success!
+2012-12-26 14:53:10,573 [main] com.topcoder.utilities.dwload.TCLoadTCS - [TCS LOAD] TCS load running
+2012-12-26 14:53:10,682 [main] com.topcoder.utilities.dwload.TCLoadTCS - Date is 2001-12-01 00:00:01.0
+2012-12-26 14:53:10,682 [main] com.topcoder.utilities.dwload.TCLoadTCS - load review resp
+2012-12-26 14:53:10,881 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 74 records in 0 seconds
+2012-12-26 14:53:10,883 [main] com.topcoder.utilities.dwload.TCLoadTCS - load event
+2012-12-26 14:53:11,063 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:53:11,064 [main] com.topcoder.utilities.dwload.TCLoadTCS - load user event
+2012-12-26 14:53:11,104 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:53:11,104 [main] com.topcoder.utilities.dwload.TCLoadTCS - load contests
+2012-12-26 14:53:11,186 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:53:11,187 [main] com.topcoder.utilities.dwload.TCLoadTCS - load contest prize
+2012-12-26 14:53:11,239 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:53:11,240 [main] com.topcoder.utilities.dwload.TCLoadTCS - load user contest prize
+2012-12-26 14:53:11,247 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:53:11,247 [main] com.topcoder.utilities.dwload.TCLoadTCS - Load client project dimension data
+2012-12-26 14:53:11,339 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 12 records in 0 seconds
+2012-12-26 14:53:11,341 [main] com.topcoder.utilities.dwload.TCLoadTCS - Load direct project dimension data
+2012-12-26 14:53:11,462 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 9 records in 0 seconds
+2012-12-26 14:53:11,520 [main] com.topcoder.utilities.dwload.TCLoadTCS - load projects
+2012-12-26 14:53:17,254 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010784
+2012-12-26 14:53:17,289 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:17,299 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:17,308 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:17,317 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:17,332 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:17,337 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:17,339 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:17,341 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:17,343 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:17,344 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:17,346 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:17,372 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:17,380 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:17,382 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:17,384 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:17,385 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:20,069 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010059
+2012-12-26 14:53:20,074 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:20,075 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:20,076 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:20,077 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:20,078 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:20,079 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:20,079 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:20,081 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:20,081 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:20,082 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:20,082 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:20,085 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:20,085 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:20,089 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:20,089 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:20,090 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:20,093 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010094
+2012-12-26 14:53:20,095 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:20,096 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:20,097 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:20,099 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:20,100 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:20,101 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:20,103 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:20,104 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:20,105 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:20,106 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:20,107 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:20,109 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:20,110 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:20,112 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:20,112 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:20,113 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:20,120 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010155
+2012-12-26 14:53:20,122 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:20,123 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:20,124 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:20,126 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:20,130 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:20,131 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:20,132 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:20,133 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:20,134 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:20,135 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:20,136 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:20,139 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:20,140 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:20,141 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:20,142 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:20,143 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:22,367 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010788
+2012-12-26 14:53:22,368 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:22,369 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:22,369 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:22,371 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:22,372 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:22,373 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:22,373 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:22,374 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:22,375 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:22,376 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:22,377 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:22,381 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:22,382 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:22,382 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:22,383 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:22,383 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:23,006 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010062
+2012-12-26 14:53:23,008 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:23,009 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:23,010 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:23,011 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:23,012 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:23,013 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:23,015 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:23,016 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:23,017 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:23,018 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:23,019 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:23,022 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:23,024 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:23,025 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:23,026 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:23,027 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:24,127 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010265
+2012-12-26 14:53:24,138 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:24,140 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:24,141 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:24,143 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:24,144 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:24,145 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:24,146 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:24,147 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:24,148 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:24,149 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:24,150 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:24,153 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:24,154 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:24,155 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:24,156 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:24,157 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:24,157 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010280
+2012-12-26 14:53:24,158 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:24,159 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:24,160 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:24,161 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:24,162 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:24,162 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:24,163 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:24,164 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:24,166 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:24,166 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:24,167 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:24,170 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:24,171 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:24,172 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:24,173 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:24,174 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:25,515 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010562
+2012-12-26 14:53:25,526 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:25,527 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:25,529 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:25,530 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:25,532 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:25,533 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:25,534 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:25,535 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:25,536 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:25,537 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:25,538 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:25,542 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:25,543 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:25,546 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:25,547 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:25,547 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:29,826 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010364
+2012-12-26 14:53:29,841 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:29,842 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:29,922 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:29,924 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:29,930 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:29,932 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:29,933 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:29,934 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:29,935 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:29,936 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:29,937 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:29,941 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:29,942 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:29,949 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:29,950 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:29,951 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:29,951 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010394
+2012-12-26 14:53:29,952 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:29,953 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:29,954 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:29,955 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:29,957 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:29,958 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:29,958 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:29,959 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:29,961 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:29,962 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:29,963 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:29,965 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:29,966 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:29,967 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:29,969 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:29,971 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:32,319 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010230
+2012-12-26 14:53:32,320 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:32,321 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:32,322 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:32,323 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:32,325 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:32,326 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:32,326 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:32,327 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:32,328 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:32,329 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:32,330 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:32,334 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:32,335 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:32,337 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:32,338 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:32,339 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:32,939 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010381
+2012-12-26 14:53:32,940 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:32,941 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:32,942 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:32,944 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:32,946 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:32,947 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:32,948 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:32,949 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:32,950 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:32,952 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:32,953 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:32,957 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:32,958 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:32,959 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:32,960 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:32,961 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:39,341 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010599
+2012-12-26 14:53:39,343 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:39,344 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:39,345 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:39,348 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:39,350 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:39,352 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:39,353 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:39,354 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:39,355 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:39,355 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:39,356 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:39,360 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:39,361 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:39,362 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:39,364 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:39,365 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:41,077 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010238
+2012-12-26 14:53:41,077 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:41,078 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:41,078 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:41,079 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:41,079 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:41,080 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:41,081 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:41,082 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:41,082 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:41,083 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:41,084 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:41,088 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:41,089 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:41,089 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:41,090 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:41,090 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:44,470 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010146
+2012-12-26 14:53:44,471 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:44,472 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:44,472 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:44,472 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:44,473 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:44,473 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:44,474 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:44,474 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:44,476 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:44,477 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:44,477 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:44,480 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:44,481 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:44,483 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:44,484 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:44,485 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:46,157 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010584
+2012-12-26 14:53:46,158 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:46,159 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:46,160 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:46,161 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:46,161 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:46,161 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:46,162 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:46,163 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:46,163 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:46,164 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:46,164 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:46,167 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:46,168 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:46,169 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:46,170 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:46,171 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:51,384 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010051
+2012-12-26 14:53:51,398 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:51,399 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:51,400 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:51,401 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:51,402 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:51,403 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:51,404 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:51,405 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:51,406 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:51,407 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:51,408 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:51,411 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:51,412 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:51,414 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:51,414 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:51,415 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:51,434 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010190
+2012-12-26 14:53:51,438 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:51,438 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:51,439 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:51,441 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:51,442 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:51,442 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:51,443 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:51,444 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:51,445 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:51,445 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:51,446 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:51,449 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:51,450 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:51,451 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:51,452 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:51,453 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:53,810 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010800
+2012-12-26 14:53:53,811 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:53,811 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:53,812 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:53,813 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:53,814 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:53,814 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:53,815 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:53,816 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:53,817 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:53,817 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:53,818 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:53,820 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:53,822 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:53,823 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:53,824 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:53,825 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:55,618 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010291
+2012-12-26 14:53:55,620 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:55,621 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:55,622 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:55,623 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:55,624 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:55,627 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:55,628 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:55,629 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:55,630 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:55,631 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:55,632 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:55,635 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:55,636 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:55,637 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:55,638 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:55,639 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:59,118 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010368
+2012-12-26 14:53:59,118 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:59,119 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:59,120 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:59,120 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:59,121 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:59,122 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:59,123 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:59,124 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:59,124 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:59,125 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:59,126 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:59,129 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:59,130 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:59,131 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:59,132 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:59,133 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:59,133 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010390
+2012-12-26 14:53:59,134 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:59,134 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:59,135 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:59,136 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:59,137 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:59,137 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:59,138 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:59,139 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:59,139 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:59,140 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:59,141 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:59,144 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:59,144 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:59,145 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:59,153 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:59,155 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:53:59,723 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010499
+2012-12-26 14:53:59,724 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:53:59,724 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:53:59,725 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:53:59,725 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:53:59,737 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:53:59,739 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:53:59,740 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:59,743 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:53:59,745 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:53:59,746 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:53:59,747 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:53:59,751 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:53:59,753 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:53:59,756 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:53:59,758 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:53:59,759 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:04,860 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010076
+2012-12-26 14:54:04,860 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:04,861 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:04,861 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:04,862 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:04,863 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:04,864 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:04,864 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:04,865 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:04,866 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:04,867 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:04,868 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:04,872 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:04,873 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:04,874 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:04,876 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:04,877 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:07,982 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010887
+2012-12-26 14:54:07,992 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:07,993 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:08,001 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:08,003 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:08,004 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:08,005 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:08,007 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:08,007 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:08,008 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:08,009 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:08,010 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:08,015 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:08,016 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:08,024 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:08,026 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:08,027 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:08,590 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010080
+2012-12-26 14:54:08,591 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:08,592 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:08,593 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:08,593 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:08,594 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:08,595 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:08,595 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:08,596 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:08,596 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:08,597 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:08,597 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:08,600 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:08,601 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:08,601 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:08,602 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:08,602 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:10,888 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010879
+2012-12-26 14:54:10,890 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:10,891 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:10,892 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:10,893 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:10,895 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:10,896 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:10,897 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:10,898 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:10,899 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:10,899 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:10,901 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:10,904 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:10,905 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:10,906 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:10,907 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:10,908 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:12,047 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010257
+2012-12-26 14:54:12,048 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:12,048 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:12,049 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:12,049 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:12,050 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:12,051 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:12,052 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:12,052 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:12,053 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:12,054 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:12,055 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:12,057 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:12,058 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:12,058 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:12,059 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:12,060 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:15,021 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010245
+2012-12-26 14:54:15,022 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:15,024 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:15,024 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:15,025 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:15,028 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:15,029 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:15,030 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:15,031 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:15,032 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:15,033 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:15,033 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:15,036 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:15,037 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:15,037 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:15,038 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:15,039 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:19,770 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010573
+2012-12-26 14:54:19,771 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:19,771 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:19,772 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:19,772 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:19,773 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:19,774 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:19,775 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:19,776 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:19,777 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:19,778 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:19,778 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:19,781 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:19,782 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:19,782 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:19,783 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:19,784 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:24,660 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010870
+2012-12-26 14:54:24,661 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:24,662 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:24,664 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:24,666 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:24,667 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:24,668 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:24,668 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:24,669 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:24,671 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:24,671 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:24,672 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:24,676 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:24,677 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:24,677 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:24,678 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:24,679 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:25,390 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010165
+2012-12-26 14:54:25,391 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:25,392 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:25,393 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:25,396 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:25,400 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:25,401 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:25,402 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:25,403 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:25,404 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:25,405 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:25,405 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:25,409 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:25,410 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:25,411 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:25,412 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:25,414 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:25,981 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010183
+2012-12-26 14:54:25,982 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:25,983 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:25,984 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:25,984 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:25,985 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:25,986 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:25,986 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:25,987 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:25,988 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:25,989 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:25,990 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:25,993 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:25,994 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:25,995 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:25,996 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:25,997 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:26,003 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010271
+2012-12-26 14:54:26,004 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:26,005 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:26,006 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:26,007 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:26,008 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:26,009 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:26,009 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:26,010 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:26,011 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:26,011 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:26,012 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:26,015 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:26,016 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:26,017 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:26,018 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:26,018 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:27,765 [main] com.topcoder.utilities.dwload.TCLoadTCS - Found project to delete: 30010690
+2012-12-26 14:54:27,767 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in subjective_response table
+2012-12-26 14:54:27,768 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_response table
+2012-12-26 14:54:27,769 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in scorecard_response table
+2012-12-26 14:54:27,770 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_screening table
+2012-12-26 14:54:27,771 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission_review table
+2012-12-26 14:54:27,772 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in testcase_appeal table
+2012-12-26 14:54:27,773 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:27,774 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in streak table
+2012-12-26 14:54:27,775 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in user_rating table
+2012-12-26 14:54:27,776 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in contest_project_xref table
+2012-12-26 14:54:27,777 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_review table
+2012-12-26 14:54:27,780 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in submission table
+2012-12-26 14:54:27,781 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in appeal table
+2012-12-26 14:54:27,785 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_result table
+2012-12-26 14:54:27,786 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project_spec_review_xref table
+2012-12-26 14:54:27,787 [main] com.topcoder.utilities.dwload.TCLoadTCS - 0 records deleted in project table
+2012-12-26 14:54:35,276 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 960 records in 83 seconds
+2012-12-26 14:54:35,277 [main] com.topcoder.utilities.dwload.TCLoadTCS - load spec reviews
+2012-12-26 14:54:35,287 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:54:35,288 [main] com.topcoder.utilities.dwload.TCLoadTCS - load scorecard template
+2012-12-26 14:54:35,361 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 15 records in 0 seconds
+2012-12-26 14:54:35,362 [main] com.topcoder.utilities.dwload.TCLoadTCS - load submission review
+2012-12-26 14:55:01,340 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 3229 records in 25 seconds
+2012-12-26 14:55:01,344 [main] com.topcoder.utilities.dwload.TCLoadTCS - load project results
+2012-12-26 14:55:01,574 [main] com.topcoder.utilities.dwload.TCLoadTCS - Loading next 500 projects...
+2012-12-26 14:55:01,974 [main] com.topcoder.utilities.dwload.TCLoadTCS - getMaxDrPointsId: 1
+2012-12-26 14:55:44,508 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 2276 records in 42 seconds
+2012-12-26 14:55:44,509 [main] com.topcoder.utilities.dwload.TCLoadTCS - Loading next 174 projects...
+2012-12-26 14:55:44,589 [main] com.topcoder.utilities.dwload.TCLoadTCS - getMaxDrPointsId: 1
+2012-12-26 14:56:02,145 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 780 records in 17 seconds
+2012-12-26 14:56:02,148 [main] com.topcoder.utilities.dwload.TCLoadTCS - load submission screening
+2012-12-26 14:56:02,960 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 1425 records in 0 seconds
+2012-12-26 14:56:02,964 [main] com.topcoder.utilities.dwload.TCLoadTCS - load contest project
+2012-12-26 14:56:03,295 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:56:03,296 [main] com.topcoder.utilities.dwload.TCLoadTCS - load user rating
+2012-12-26 14:56:03,418 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 276 records in 0 seconds
+2012-12-26 14:56:03,420 [main] com.topcoder.utilities.dwload.TCLoadTCS - load user reliability
+2012-12-26 14:56:03,430 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:56:03,430 [main] com.topcoder.utilities.dwload.TCLoadTCS - load royalties
+2012-12-26 14:56:03,440 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:56:03,441 [main] com.topcoder.utilities.dwload.TCLoadTCS - load scorecard_question
+2012-12-26 14:56:03,562 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 38 records in 0 seconds
+2012-12-26 14:56:03,571 [main] com.topcoder.utilities.dwload.TCLoadTCS - load scorecard_response
+2012-12-26 14:56:28,555 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 4654 records in 24 seconds
+2012-12-26 14:56:28,560 [main] com.topcoder.utilities.dwload.TCLoadTCS - load testcase_response
+2012-12-26 14:56:28,867 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:56:28,868 [main] com.topcoder.utilities.dwload.TCLoadTCS - load subjective_response
+2012-12-26 14:57:09,504 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 4654 records in 40 seconds
+2012-12-26 14:57:09,505 [main] com.topcoder.utilities.dwload.TCLoadTCS - load Appeal
+2012-12-26 14:57:09,856 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:57:09,857 [main] com.topcoder.utilities.dwload.TCLoadTCS - load Testcase Appeal
+2012-12-26 14:57:10,162 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 0 records in 0 seconds
+2012-12-26 14:57:10,162 [main] com.topcoder.utilities.dwload.TCLoadTCS - load submissions
+2012-12-26 14:57:10,785 [main] com.topcoder.utilities.dwload.TCLoadTCS - loaded 1494 records in 0 seconds
+2012-12-26 14:57:10,785 [main] com.topcoder.utilities.dwload.TCLoadTCS - load streak
+2012-12-26 14:57:10,921 [main] com.topcoder.shared.util.TCResourceBundle - key not found, setting default PIPELINE_DATASOURCE_NAME = java:PIPELINE
+2012-12-26 14:57:10,921 [main] com.topcoder.shared.util.TCResourceBundle - key not found, setting default JIRA_DATASOURCE_NAME = java:BUGS
+2012-12-26 14:57:10,921 [main] com.topcoder.shared.util.TCResourceBundle - key not found, setting default LONG_CONTEST_SVC_EVENT_TOPIC = servicesEventTopic
+2012-12-26 14:57:10,962 [main] com.topcoder.shared.util.dwload.TCLoadUtility - *******************************************
+2012-12-26 14:57:10,963 [main] com.topcoder.shared.util.dwload.TCLoadUtility - FAILURE: 
+java.lang.Exception: Load of 'streak' table failed.
+Missing key in referenced table for referential constraint (informix.streak_typelu_fk).
+	at com.topcoder.utilities.dwload.TCLoadTCS.doLoadStreak(TCLoadTCS.java:4760)
+	at com.topcoder.utilities.dwload.TCLoadTCS.performLoad(TCLoadTCS.java:292)
+	at com.topcoder.shared.util.dwload.TCLoadUtility.doLoad(TCLoadUtility.java:306)
+	at com.topcoder.shared.util.dwload.TCLoadUtility.runTCLoad(TCLoadUtility.java:244)
+	at com.topcoder.shared.util.dwload.TCLoadUtility.runXMLLoad(TCLoadUtility.java:130)
+	at com.topcoder.shared.util.dwload.TCLoadUtility.main(TCLoadUtility.java:60)
+2012-12-26 14:57:10,964 [main] com.topcoder.shared.util.dwload.TCLoadUtility - *******************************************

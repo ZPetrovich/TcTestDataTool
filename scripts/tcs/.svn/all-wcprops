@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/internal/!svn/ver/81964/web_module/trunk/scripts/tcs
+END
+dbUpdateTool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/internal/!svn/ver/76969/web_module/trunk/scripts/tcs/dbUpdateTool.sh
+END
+userDataLDAPMigrationTool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/internal/!svn/ver/77296/web_module/trunk/scripts/tcs/userDataLDAPMigrationTool.xml
+END
+dbUpdateTool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/internal/!svn/ver/76969/web_module/trunk/scripts/tcs/dbUpdateTool.xml
+END
+applyRBoardRules.xml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/internal/!svn/ver/81964/web_module/trunk/scripts/tcs/applyRBoardRules.xml
+END
+userDataLDAPMigrationTool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/internal/!svn/ver/77296/web_module/trunk/scripts/tcs/userDataLDAPMigrationTool.sh
+END

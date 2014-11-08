@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/internal/!svn/ver/80720/web_module/trunk/scripts/tc
+END
+coder_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/internal/!svn/ver/80720/web_module/trunk/scripts/tc/coder_data.sql
+END
+member_profile.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/internal/!svn/ver/75447/web_module/trunk/scripts/tc/member_profile.sql
+END
+coder_track_data.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/internal/!svn/ver/75447/web_module/trunk/scripts/tc/coder_track_data.sql
+END
+dd_track_rating_history.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/75447/web_module/trunk/scripts/tc/dd_track_rating_history.sql
+END

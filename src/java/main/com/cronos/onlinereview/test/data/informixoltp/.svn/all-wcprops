@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/informixoltp
+END
+PaymentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/informixoltp/PaymentType.java
+END
+PaymentStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/informixoltp/PaymentStatus.java
+END
+Payment.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/informixoltp/Payment.java
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/test_files
+END
+tcs_dw_loader.jar
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/test_files/tcs_dw_loader.jar
+END
+submissionDeclarations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/test_files/submissionDeclarations.sql
+END
+submissionDeclarations.txt
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/test_files/submissionDeclarations.txt
+END
+studioSubmissionIds.txt
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/test_files/studioSubmissionIds.txt
+END
+setup.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/test_files/setup.sql
+END
+calendar.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/test_files/calendar.sql
+END
+clean-up.sql
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/test_files/clean-up.sql
+END

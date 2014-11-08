@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/internal/!svn/ver/80253/web_module/trunk/scripts/pacts
+END
+expireOldAffidavitsAndPayments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/internal/!svn/ver/80253/web_module/trunk/scripts/pacts/expireOldAffidavitsAndPayments.xml
+END
+payReliabilityBonus.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/internal/!svn/ver/74985/web_module/trunk/scripts/pacts/payReliabilityBonus.sh
+END
+processJiraPayments.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/internal/!svn/ver/75207/web_module/trunk/scripts/pacts/processJiraPayments.xml
+END
+payWithholdings.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/internal/!svn/ver/75266/web_module/trunk/scripts/pacts/payWithholdings.sh
+END
+clientNaming.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/internal/!svn/ver/75207/web_module/trunk/scripts/pacts/clientNaming.xml
+END
+payReliabilityBonus.xml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/internal/!svn/ver/74985/web_module/trunk/scripts/pacts/payReliabilityBonus.xml
+END
+expireOldAffidavitsAndPayments.sh
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/internal/!svn/ver/80253/web_module/trunk/scripts/pacts/expireOldAffidavitsAndPayments.sh
+END
+issueTypes.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/internal/!svn/ver/77595/web_module/trunk/scripts/pacts/issueTypes.xml
+END
+payWithholdings.xml
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/internal/!svn/ver/75265/web_module/trunk/scripts/pacts/payWithholdings.xml
+END
+paymentRanges.xml
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/internal/!svn/ver/76337/web_module/trunk/scripts/pacts/paymentRanges.xml
+END
+processJiraPayments.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/internal/!svn/ver/75207/web_module/trunk/scripts/pacts/processJiraPayments.sh
+END

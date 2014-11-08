@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog
+END
+CopilotProfileStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 155
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/CopilotProfileStatus.java
+END
+PhaseStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/PhaseStatus.java
+END
+PrizeType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/PrizeType.java
+END
+ReviewItem.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ReviewItem.java
+END
+TechnologyType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/TechnologyType.java
+END
+SubmissionType.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/SubmissionType.java
+END
+StudioProjectConfig.java
+K 25
+svn:wc:ra_dav:version-url
+V 154
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/StudioProjectConfig.java
+END
+ResourceRole.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ResourceRole.java
+END
+Scorecard.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Scorecard.java
+END
+Upload.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Upload.java
+END
+ProjectInfoType.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ProjectInfoType.java
+END
+SubmissionStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/SubmissionStatus.java
+END
+Component.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Component.java
+END
+CopilotProfile.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/CopilotProfile.java
+END
+Phase.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Phase.java
+END
+ContestSale.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ContestSale.java
+END
+CommentType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/CommentType.java
+END
+Review.java
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Review.java
+END
+CostLevel.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/CostLevel.java
+END
+ProjectCategory.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ProjectCategory.java
+END
+FileType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/FileType.java
+END
+ReviewItemComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ReviewItemComment.java
+END
+PhaseCriteriaType.java
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/PhaseCriteriaType.java
+END
+ProjectType.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ProjectType.java
+END
+Prize.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Prize.java
+END
+SubmissionDeclaration.java
+K 25
+svn:wc:ra_dav:version-url
+V 156
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/SubmissionDeclaration.java
+END
+Resource.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Resource.java
+END
+CopilotProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/CopilotProject.java
+END
+Submission.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Submission.java
+END
+ProjectStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ProjectStatus.java
+END
+ScreeningStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 150
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ScreeningStatus.java
+END
+ReviewComment.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ReviewComment.java
+END
+SaleType.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/SaleType.java
+END
+Category.java
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Category.java
+END
+ScorecardType.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ScorecardType.java
+END
+ScreeningTask.java
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ScreeningTask.java
+END
+ComponentVersion.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ComponentVersion.java
+END
+UploadType.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/UploadType.java
+END
+Catalog.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Catalog.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/tcs/!svn/ver/216422/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/Project.java
+END
+SaleStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/SaleStatus.java
+END
+ResourceInfoType.java
+K 25
+svn:wc:ra_dav:version-url
+V 151
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ResourceInfoType.java
+END
+PhaseType.java
+K 25
+svn:wc:ra_dav:version-url
+V 144
+/tcs/!svn/ver/211905/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/PhaseType.java
+END
+ProjectSpec.java
+K 25
+svn:wc:ra_dav:version-url
+V 146
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/ProjectSpec.java
+END
+UploadStatus.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/tcs/!svn/ver/199504/clients/cronos/components/tc_test_data_tool/trunk/src/java/main/com/cronos/onlinereview/test/data/tcscatalog/UploadStatus.java
+END

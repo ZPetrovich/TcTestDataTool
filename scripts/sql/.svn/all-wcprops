@@ -1,0 +1,737 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql
+END
+studio_five_hundred_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_five_hundred_milestone_prize.sql
+END
+studio_one_hundred_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_one_hundred_forum_posts.sql
+END
+one_hundred_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/one_hundred_milestone_prize.sql
+END
+two_hundred_srm_solved_problems.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/two_hundred_srm_solved_problems.sql
+END
+ten_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/internal/!svn/ver/80985/web_module/trunk/scripts/sql/ten_forum_posts.sql
+END
+ten_srm_solved_problems.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/ten_srm_solved_problems.sql
+END
+twenty_five_successful_challenges.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/twenty_five_successful_challenges.sql
+END
+first_top5_marathon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/first_top5_marathon.sql
+END
+two_hundred_and_fifty_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/two_hundred_and_fifty_first_win.sql
+END
+studio_five_hundred_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_five_hundred_forum_posts.sql
+END
+one_hundred_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/one_hundred_forum_posts.sql
+END
+studio_fifty_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_fifty_passing_submissions.sql
+END
+load_query_member.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/internal/!svn/ver/81939/web_module/trunk/scripts/sql/load_query_member.sql
+END
+digital_run_top_five.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/internal/!svn/ver/81700/web_module/trunk/scripts/sql/digital_run_top_five.sql
+END
+won_marathon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/won_marathon.sql
+END
+copilot_desktop_ui_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_desktop_ui_skill.sql
+END
+five_thousand_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/five_thousand_forum_posts.sql
+END
+eight_top5_marathon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/eight_top5_marathon.sql
+END
+copilot_web_ui_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_web_ui_skill.sql
+END
+one_hundred_placements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/one_hundred_placements.sql
+END
+one_hundred_srm_room_wins.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/one_hundred_srm_room_wins.sql
+END
+copilot_wireframe_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_wireframe_skill.sql
+END
+fifty_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/fifty_milestone_prize.sql
+END
+ten_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/ten_first_win.sql
+END
+solved_div1_hard.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/internal/!svn/ver/82040/web_module/trunk/scripts/sql/solved_div1_hard.sql
+END
+studio_two_hundred_and_fifty_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_two_hundred_and_fifty_passing_submissions.sql
+END
+one_hundred_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/one_hundred_first_win.sql
+END
+termsOfUseMigrationTool.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/75868/web_module/trunk/scripts/sql/termsOfUseMigrationTool.sh
+END
+copilot_big_data_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_big_data_skill.sql
+END
+fifty_srm_solved_problems.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/fifty_srm_solved_problems.sql
+END
+first_srm_room_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/first_srm_room_win.sql
+END
+copilot_conceptualization_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_conceptualization_skill.sql
+END
+studio_fifty_placements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_fifty_placements.sql
+END
+twenty_five_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/twenty_five_first_win.sql
+END
+first_successful_challenge.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/first_successful_challenge.sql
+END
+ten_marathon_participations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/ten_marathon_participations.sql
+END
+five_hundred_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/five_hundred_milestone_prize.sql
+END
+copilot_mobile_ui_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_mobile_ui_skill.sql
+END
+three_hundred_rated_algorithm_participation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/three_hundred_rated_algorithm_participation.sql
+END
+studio_one_hundred_placements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_one_hundred_placements.sql
+END
+two_hundred_and_fifty_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/two_hundred_and_fifty_milestone_prize.sql
+END
+studio_ten_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_ten_passing_submissions.sql
+END
+five_hundred_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/five_hundred_forum_posts.sql
+END
+five_hundred_srm_solved_problems.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/five_hundred_srm_solved_problems.sql
+END
+copilot_architecture_design_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_architecture_design_skill.sql
+END
+studio_one_hundred_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_one_hundred_passing_submissions.sql
+END
+copilot_idea_generation_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_idea_generation_skill.sql
+END
+first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/first_win.sql
+END
+termsOfUseMigrationTool.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/internal/!svn/ver/75868/web_module/trunk/scripts/sql/termsOfUseMigrationTool.xml
+END
+one_hundred_rated_algorithm_participation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/one_hundred_rated_algorithm_participation.sql
+END
+copilot_ui_development_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_ui_development_skill.sql
+END
+studio_first_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/internal/!svn/ver/81757/web_module/trunk/scripts/sql/studio_first_milestone_prize.sql
+END
+copilot_branding_marketing_presentation_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_branding_marketing_presentation_skill.sql
+END
+studio_two_hundred_and_fifty_placements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_two_hundred_and_fifty_placements.sql
+END
+twenty_srm_room_wins.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/twenty_srm_room_wins.sql
+END
+ten_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/ten_passing_submissions.sql
+END
+studio_five_hundred_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_five_hundred_passing_submissions.sql
+END
+copilot_test_scenarios_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_test_scenarios_skill.sql
+END
+one_hundred_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/one_hundred_passing_submissions.sql
+END
+five_successful_challenges.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/five_successful_challenges.sql
+END
+studio_first_passing_submission.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/internal/!svn/ver/81757/web_module/trunk/scripts/sql/studio_first_passing_submission.sql
+END
+studio_one_thousand_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_one_thousand_forum_posts.sql
+END
+solved_div2_hard.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/internal/!svn/ver/82040/web_module/trunk/scripts/sql/solved_div2_hard.sql
+END
+twenty_five_rated_algorithm_participation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/twenty_five_rated_algorithm_participation.sql
+END
+twenty_five_placements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/twenty_five_placements.sql
+END
+marathon_target.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/internal/!svn/ver/82038/web_module/trunk/scripts/sql/marathon_target.sql
+END
+fifty_marathon_participations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/fifty_marathon_participations.sql
+END
+digital_run_winner.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/internal/!svn/ver/81700/web_module/trunk/scripts/sql/digital_run_winner.sql
+END
+studio_five_thousand_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_five_thousand_forum_posts.sql
+END
+copilot_component_development_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_component_development_skill.sql
+END
+studio_first_forum_post.sql
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/internal/!svn/ver/81755/web_module/trunk/scripts/sql/studio_first_forum_post.sql
+END
+fifty_placements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/fifty_placements.sql
+END
+twenty_marathon_participations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/twenty_marathon_participations.sql
+END
+load_query_copilot.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/internal/!svn/ver/81636/web_module/trunk/scripts/sql/load_query_copilot.sql
+END
+studio_cup_winner.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/internal/!svn/ver/81700/web_module/trunk/scripts/sql/studio_cup_winner.sql
+END
+studio_fifty_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_fifty_milestone_prize.sql
+END
+studio_ten_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_ten_first_win.sql
+END
+copilot_bug_hunt_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_bug_hunt_skill.sql
+END
+fifty_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/fifty_passing_submissions.sql
+END
+studio_one_hundred_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_one_hundred_first_win.sql
+END
+studio_twenty_five_placements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_twenty_five_placements.sql
+END
+copilot_assembly_skill.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/82111/web_module/trunk/scripts/sql/copilot_assembly_skill.sql
+END
+first_marathon_participation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/first_marathon_participation.sql
+END
+five_srm_room_wins.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/five_srm_room_wins.sql
+END
+won_srm_div1.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/internal/!svn/ver/82038/web_module/trunk/scripts/sql/won_srm_div1.sql
+END
+won_srm_div2.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/internal/!svn/ver/82038/web_module/trunk/scripts/sql/won_srm_div2.sql
+END
+studio_cup_top_five.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/internal/!svn/ver/81700/web_module/trunk/scripts/sql/studio_cup_top_five.sql
+END
+two_top5_marathon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/two_top5_marathon.sql
+END
+studio_ten_first_placement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_ten_first_placement.sql
+END
+studio_twenty_five_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_twenty_five_first_win.sql
+END
+sixteen_top5_marathon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/sixteen_top5_marathon.sql
+END
+two_hundred_and_fifty_placements.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/two_hundred_and_fifty_placements.sql
+END
+load_copilot_bug_races.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/81939/web_module/trunk/scripts/sql/load_copilot_bug_races.sql
+END
+studio_two_hundred_and_fifty_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_two_hundred_and_fifty_milestone_prize.sql
+END
+five_hundred_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/five_hundred_passing_submissions.sql
+END
+ten_first_placement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/ten_first_placement.sql
+END
+one_thousand_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/one_thousand_forum_posts.sql
+END
+first_passing_submission.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/first_passing_submission.sql
+END
+load_copilot_stats.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/internal/!svn/ver/81939/web_module/trunk/scripts/sql/load_copilot_stats.sql
+END
+two_hundred_and_fifty_passing_submissions.sql
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/two_hundred_and_fifty_passing_submissions.sql
+END
+two_hundred_and_fifty_successful_challenges.sql
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/two_hundred_and_fifty_successful_challenges.sql
+END
+studio_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/internal/!svn/ver/81757/web_module/trunk/scripts/sql/studio_first_win.sql
+END
+studio_fifty_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_fifty_first_win.sql
+END
+fifty_srm_room_wins.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/fifty_srm_room_wins.sql
+END
+first_rated_algorithm_participation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/first_rated_algorithm_participation.sql
+END
+five_rated_algorithm_participation.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/five_rated_algorithm_participation.sql
+END
+first_srm_solved_problem.sql
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/first_srm_solved_problem.sql
+END
+first_forum_post.sql
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/internal/!svn/ver/81755/web_module/trunk/scripts/sql/first_forum_post.sql
+END
+fifty_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/fifty_first_win.sql
+END
+studio_ten_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_ten_milestone_prize.sql
+END
+studio_first_placement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/81757/web_module/trunk/scripts/sql/studio_first_placement.sql
+END
+srm_target.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/internal/!svn/ver/82038/web_module/trunk/scripts/sql/srm_target.sql
+END
+studio_one_hundred_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_one_hundred_milestone_prize.sql
+END
+three_marathon_participations.sql
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/three_marathon_participations.sql
+END
+four_top5_marathon.sql
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/four_top5_marathon.sql
+END
+studio_ten_forum_posts.sql
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/internal/!svn/ver/80985/web_module/trunk/scripts/sql/studio_ten_forum_posts.sql
+END
+one_hundred_successful_challenges.sql
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/internal/!svn/ver/82029/web_module/trunk/scripts/sql/one_hundred_successful_challenges.sql
+END
+ten_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/ten_milestone_prize.sql
+END
+load_query_upg.sql
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/internal/!svn/ver/81445/web_module/trunk/scripts/sql/load_query_upg.sql
+END
+first_placement.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/internal/!svn/ver/81924/web_module/trunk/scripts/sql/first_placement.sql
+END
+first_milestone_prize.sql
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/internal/!svn/ver/81757/web_module/trunk/scripts/sql/first_milestone_prize.sql
+END
+studio_two_hundred_and_fifty_first_win.sql
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/internal/!svn/ver/81774/web_module/trunk/scripts/sql/studio_two_hundred_and_fifty_first_win.sql
+END

@@ -1,0 +1,287 @@
+Following users accepted specified terms of use:
+User: 20 - dok_tester
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 21 - dok_tester1
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124764 - Hung
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124766 - twight
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124772 - Partha
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124776 - sandking
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124834 - lightspeed
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124835 - reassembler
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124836 - annej9ny
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124852 - plinehan
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124853 - chelseasimon
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124856 - wyzmo
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124857 - cartajs
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124861 - ksmith
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 124916 - Yoshi
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 132456 - heffan
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 132457 - super
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 132458 - user
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 22770213 - Applications
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 22719217 - Components
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 22873364 - LCSUPPORT
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
+User: 99867542 - OBSERVER
+        17 - Reviewer terms of use text
+        20493 - Another terms of use text
+        20543 - Submitter terms of use text 20543
+        20623 - Submitter terms of use text
+        20703 - Submitter terms of use text 20703
+        20704 - Reviewer terms of use text 20704
+        20713 - CCA terms of use text 20713
+        20753 - Assignment 2.0
+        20794 - Approved OR Managers - TopCoder Technical Team
+        20893 - MSA
+        20963 - Government id term
+
